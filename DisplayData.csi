@@ -1,0 +1,23 @@
+[History]
+1=#P0#=mb	#P1#=GetADOConnection	#P2#=DisplayData/DBConManager/GetADOConnection	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20200706131555	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=Form_Load	#P2#=DisplayData/FrmOptions/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20171117011655	#P7#=0	#P8#=17	.
+3=#P0#=mb	#P1#=Form_KeyDown	#P2#=DisplayData/FrmShowData/Form_KeyDown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20171117004334	#P7#=0	#P8#=32	.
+4=#P0#=mb	#P1#=CmdOpen_Click	#P2#=DisplayData/FrmOptions/CmdOpen_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20171117002237	#P7#=0	#P8#=7	.
+5=#P0#=mb	#P1#=CreateLocalDirectory	#P2#=DisplayData/FrmOptions/CreateLocalDirectory	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20171117002039	#P7#=0	#P8#=33	.
+6=#P0#=mb	#P1#=cmdDonate_Click	#P2#=DisplayData/FrmOptions/cmdDonate_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20171117001842	#P7#=0	#P8#=0	.
+7=#P0#=mb	#P1#=Form_Load	#P2#=DisplayData/FrmShowData/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20171117001821	#P7#=0	#P8#=26	.
+8=#P0#=mb	#P1#=ExecuteSql	#P2#=DisplayData/FrmShowData/ExecuteSql	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20170208235129	#P7#=-2147483640	#P8#=245	.
+9=#P0#=mb	#P1#=WindowProc	#P2#=DisplayData/HookAPI/WindowProc	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20130302170931	#P7#=0	#P8#=0	.
+10=#P0#=mb	#P1#=CBOdatabases_dropdown	#P2#=DisplayData/FrmShowData/CBOdatabases_dropdown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120618160427	#P7#=0	#P8#=5	.
+11=#P0#=mb	#P1#=Form_QueryUnload	#P2#=DisplayData/FrmShowData/Form_QueryUnload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120618160014	#P7#=0	#P8#=20	.
+12=#P0#=mb	#P1#=CBOtype_Click	#P2#=DisplayData/FrmShowData/CBOtype_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120608155125	#P7#=0	#P8#=11	.
+13=#P0#=mb	#P1#=CBOdatabases_Click	#P2#=DisplayData/FrmShowData/CBOdatabases_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120608154846	#P7#=0	#P8#=0	.
+14=#P0#=mb	#P1#=ExportToExcel	#P2#=DisplayData/FrmShowData/ExportToExcel	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20200710183102	#P7#=0	#P8#=218	.
+15=#P0#=mb	#P1#=txtPort_Change	#P2#=DisplayData/FrmShowData/txtPort_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20110222160935	#P7#=0	#P8#=1	.
+16=#P0#=mb	#P1#=Form_Resize	#P2#=DisplayData/FrmShowData/Form_Resize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20091222085134	#P7#=0	#P8#=24	.
+17=#P0#=mb	#P1#=DealSqlArray	#P2#=DisplayData/FrmShowData/DealSqlArray	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20081130152501	#P7#=-2147483640	#P8#=10	.
+18=#P0#=mb	#P1#=CBOdatabases_Change	#P2#=DisplayData/FrmShowData/CBOdatabases_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20081128031021	#P7#=0	#P8#=1	.
+19=#P0#=mb	#P1#=txtUID_Change	#P2#=DisplayData/FrmShowData/txtUID_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20081128031001	#P7#=0	#P8#=2	.
+20=#P0#=mb	#P1#=TxtSID_Change	#P2#=DisplayData/FrmShowData/TxtSID_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20081128030934	#P7#=0	#P8#=2	.
+21=#P0#=mb	#P1#=txtServer_Change	#P2#=DisplayData/FrmShowData/txtServer_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20081128030923	#P7#=0	#P8#=1	.
+22=#P0#=mb	#P1#=SetCaption	#P2#=DisplayData/FrmShowData/SetCaption	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20081128030752	#P7#=0	#P8#=1	.

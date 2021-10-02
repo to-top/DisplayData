@@ -1,0 +1,6 @@
+FrmShowData = 44, 280, 635, 728, Z, 22, 279, 613, 728, C
+DBConManager = 44, 308, 684, 738, 
+HookAPI = 66, 298, 770, 728, 
+FrmOptions = 66, 87, 774, 432, , 66, 87, 810, 535, C
+FrmFolderBrowser = 0, 0, 0, 0, C, 88, 116, 832, 564, C
+CaretPosition = 44, 308, 719, 738, C
